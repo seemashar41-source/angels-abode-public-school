@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Angels Abode Public School</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Angels Abode Public School</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#admissions">Admissions</a></li>
+                <li><a href="#careers">Careers</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>Nurturing Young Minds for a Brighter Tomorrow</h2>
+        <p>Admissions Open for 2026-2027 Session</p>
+    </section>
+
+    <section id="admissions">
+        <h2>Student Admissions</h2>
+        <p>Join our vibrant community. Download the form below.</p>
+        <a href="#" class="btn">Download Admission Form</a>
+    </section>
+
+    <section id="careers">
+        <h2>Teacher Recruitment</h2>
+        <p>We are looking for passionate educators to join our team.</p>
+        <a href="#" class="btn">View Open Positions</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Angels Abode Public School. Contact: info@angelsabode.edu</p>
+    </footer>
+</body>
+</html>
